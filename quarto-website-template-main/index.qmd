@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/mrs.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MSchmidtStrah
+    - icon: github
+      text: Github
+      href: https://github.com/monikastrah
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/monika-strah-500530/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.monika.strah@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+On this website, you will find a selection of my published works. You will also find news and updates on my current research projects. I invite you to explore my website and please feel free to [contact me](mailto:mail.monika.strah@case.edu) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
