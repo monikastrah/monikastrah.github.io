@@ -1,8 +1,10 @@
 ---
 about:
-  template: jolla
+  template: solana
   id: about-block
-  image: "img/mrs.jpg"
+  image: "img/my_image.jpeg"
+  image-shape: rounded
+  image-width: 10em
   links:
     - icon: twitter
       text: Twitter
@@ -15,19 +17,37 @@ about:
       href: https://www.linkedin.com/in/monika-strah-500530/
     - icon: envelope
       text: Email
-      href: "mailto:mail.monika.strah@case.edu"  
+      href: "mailto:monika.strah@case.edu"  
 ---
+# Monika Strah
+(This content appears above the formatted about page content.)
 
-::: {#about-block}
-:::
+:::{#hero-heading}
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+#::: {#about-block}
+#:::
 
 # Welcome to my website!
 
-On this website, you will find a selection of my published works. You will also find news and updates on my current research projects. I invite you to explore my website and please feel free to [contact me](mailto:mail.monika.strah@case.edu) if you have any questions or would like to discuss potential projects.
+On this website, you will find a selection of my published works. You will also find news and updates on my current research projects. I invite you to explore my website and please feel free to [contact me](mailto:monika.strah@case.edu) if you have any questions or would like to discuss potential projects.
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+:::
+
+### This content appears below the formatted about page content.
 
