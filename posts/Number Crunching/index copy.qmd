@@ -1,0 +1,9 @@
+---
+title: "Number Crunching"
+author: "Monika Schmidt-Strah"
+date: "2024-04-26"
+categories: [news, books]
+image: "Numbers.png"
+---
+
+PhD Life - Entertaining Math Books from Waterstones, UK.

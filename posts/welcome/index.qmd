@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Monika Schmidt-Strah"
+date: "2024-04-16"
+categories: [news, books]
+---
+
+Welcome! Looking for a good read?
+
+![](mathbooks.jpg)

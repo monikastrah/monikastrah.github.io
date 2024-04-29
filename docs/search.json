@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Books & Bytes",
+    "section": "",
+    "text": "April 16, 2024 - Ready to publish your first Book Review? Begin with these 4 Simple Steps from Celina Bragagnola, PhD:\n1. Identify a journal in your area of study that publishes book reviews.\n2. Reach out to the reviews editor.\n3. Look at other reviews while you are waiting for your book.\n4. Read the book and write the review.\nCheck out these sources for additional details:\nHow to Publish a Book Review\nHow to Write an Academic Book Review\nWriting Academic Book Reviews - USC Libraries"
+  },
+  {
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "Case Western Reserve University - School of Medicine\nCleveland, Ohio\nPhD Clinical Translational Science\nCurrent Student, Cumulative GPA: 4.0\n\nCase Western Reserve University - School of Medicine\nCleveland, Ohio\nMasters in Biostatistics\nCumulative GPA: 4.0\n\nKent State University\nKent, Ohio\nComputational Biology\nGraduate Studies\n\nWittenberg University\nSpringfield, Ohio\nBachelor of Arts in Mathematics"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications and Patents",
+    "section": "",
+    "text": "(https://pubmed.ncbi.nlm.nih.gov/37788113/)\nDirajlal-Fargo S, Strah M, Ailstock K, Sattar A, Karungi C, Nazzinda R, Funderburg N, Kityo C, Musiime V, McComsey GA. Factors associated with insulin resistance in a longitudinal study of Ugandan youth with and without HIV. AIDS. 2024 Feb 1;38(2):177-184.\nDirajlal-Fargo, S., Sattar, A., Strah, M., Karungi, C., Gumikiriza-Onoria, J., Asiedu, N., Nanteza, A., Santoro, A., Ferraris, C., Tsapalas, D., Morrison, C., Musiime, V., McComsey, G., Robbins, R. (2023). “Immune activation and neurocognition in Ugandan adolescents living with HIV.” Conference on Retroviruses and Opportunistic Infections (CROI), Seattle, Washington, USA, Feb 19 - 22.\nDirajlal-Fargo, S., Strah, M., Ailstock, K., Sattar, A., Karungi, C., Nazzinda, R., Kityo, C. Musiime, V., Funderburg, N., McComsey, G., “Persistent immune activation and altered gut integrity over time in a longitudinal study of Ugandan youth with perinatally acquired HIV.” Frontiers in Immunology, 28 March 2023. Volume 14. https://www.frontiersin.org/articles/10.3389/fimmu.2023.1165964/full\nL.M. Bartolo, A. Melton, M. Strah, C.S. Lowe, L. Feng, and C. Woolverton, “An Electronic Scientific Notebook: Metadata and Database Design for Multidisciplinary Scientific Laboratory Data”, in Proc. ICEIS, 2002, pp.307-310.\n“Effectiveness of Tagging Laboratory Data Using Dublin Core in an Electronic Scientific Notebook”. CRIS 2002 6th International Conference on Current Research Information Systems, Gaining Insight from Research Information/ Ed. By Wolfgang Adamczak and Annemarie Nase, Kassel: kassel university press, 2002, ISBN 3-933146-844.\n“Method and System for Managing Data Objects” 2004. Inventors: Austin Melton, Laura Bartolo, Christopher J. Woolverton, Monica Strah, Cathy Lowe, Louis Feng, US 2004/OO15514A1."
+  },
+  {
+    "objectID": "posts/ Bayesians are frequentists/index.html",
+    "href": "posts/ Bayesians are frequentists/index.html",
+    "title": "Bayesians are frequentists",
+    "section": "",
+    "text": "Andrew Gelman 1/8/24 and a book recommendaton."
+  },
+  {
+    "objectID": "posts/PhD life/index.html",
+    "href": "posts/PhD life/index.html",
+    "title": "Biostatistics",
+    "section": "",
+    "text": "Published in 2018, this book is a great reference for basic statistical methods intended for both graduates and undergraduates."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Welcome! Looking for a good read?"
+  },
+  {
+    "objectID": "posts/Number Crunching/index copy.html",
+    "href": "posts/Number Crunching/index copy.html",
+    "title": "Number Crunching",
+    "section": "",
+    "text": "PhD Life - Entertaining Math Books from Waterstones, UK."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Monika Schmidt-Strah",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "Monika Schmidt-Strah",
+    "section": "Books",
+    "text": "Books\nFrank Harrell - Biostatistics for Biomedical Research\nDavid Spiegelhalter - The Art of Statistics\nJeffrey Leek - How to Be a Modern Scientist\nHadley Wickham and Jenny Bryan - R for Data Science\nWinston Chang - R-Graphics Cookbook\nChester Ismay and Albert Kim - A Modern Dive into R and the Tidyverse\nThe Epidemiologist R Handbook\nTidy Modeling with R - Max Kuhn and Julia Silge"
+  },
+  {
+    "objectID": "index.html#articles",
+    "href": "index.html#articles",
+    "title": "Monika Schmidt-Strah",
+    "section": "Articles",
+    "text": "Articles\nAdding a blog to your existing Quarto website-Samantha Csik\nStatistial Inference in the 21st Century: A World Beyond p &lt; 0.05\nData Organization in Spreadsheets-The American Statistician\nOn Naming Things - Douglas MacDonald"
+  },
+  {
+    "objectID": "index.html#courses",
+    "href": "index.html#courses",
+    "title": "Monika Schmidt-Strah",
+    "section": "Courses",
+    "text": "Courses\nFrank Harrell - Biostatistics for Biomedical Research\nUCLA-Statistical Methods and Data Analytics"
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "Monika Schmidt-Strah",
+    "section": "Software",
+    "text": "Software\nSTATA\nMATLAB\nSAS\nR\nSPSS"
+  },
+  {
+    "objectID": "index.html#miscellany",
+    "href": "index.html#miscellany",
+    "title": "Monika Schmidt-Strah",
+    "section": "Miscellany",
+    "text": "Miscellany\nAdvent Calendar for Probability Distributions\nOn the 12th Day of Christmas, a Statistician Sent to Me…\nHow to Name Files - Jenny Bryan\nHow to Name Files-The Sequel - Jenny Bryan\nWhich Statistical Test Should I Use?"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News",
+    "section": "",
+    "text": "Bayesians are frequentists\n\n\n\n\n\n\n\nnews\n\n\nbooks\n\n\n\n\n\n\n\n\n\n\n\nApr 27, 2024\n\n\nMonika Schmidt-Strah\n\n\n\n\n\n\n  \n\n\n\n\nNumber Crunching\n\n\n\n\n\n\n\nnews\n\n\nbooks\n\n\n\n\n\n\n\n\n\n\n\nApr 26, 2024\n\n\nMonika Schmidt-Strah\n\n\n\n\n\n\n  \n\n\n\n\nBiostatistics\n\n\n\n\n\n\n\nnews\n\n\nbooks\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 18, 2024\n\n\nMonika Schmidt-Strah\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\nbooks\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nMonika Schmidt-Strah\n\n\n\n\n\n\nNo matching items"
+  }
+]

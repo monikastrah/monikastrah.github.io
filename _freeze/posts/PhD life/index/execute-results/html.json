@@ -1,0 +1,14 @@
+{
+  "hash": "c5384318e4fcabcde0b909b77e4dca80",
+  "result": {
+    "markdown": "---\ntitle: \"Biostatistics\"\nauthor: \"Monika Schmidt-Strah\"\ndate: \"2024-04-18\"\ncategories: [news, code, analysis]\nimage: \"Statsbook.jpg\"\n---\n\n\nPhD Life - How to publish an Academic Book Review.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,10 @@
+---
+title: "Bayesians are frequentists"
+author: "Monika Schmidt-Strah"
+date: "2024-04-27"
+categories: [news, books]
+---
+
+[Andrew Gelman 1/8/24](https://statmodeling.stat.columbia.edu/2024/01/08/bayesians-are-frequentists-2/) and a book recommendaton.
+
+![](Bayes.png)

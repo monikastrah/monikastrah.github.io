@@ -1,0 +1,23 @@
+---
+title: Publications and Patents
+---
+
+(https://pubmed.ncbi.nlm.nih.gov/37788113/)
+
+Dirajlal-Fargo S, Strah M, Ailstock K, Sattar A, Karungi C, Nazzinda R, Funderburg N, Kityo C, Musiime V, McComsey GA. Factors associated with insulin resistance in a longitudinal study of Ugandan youth with and without HIV. AIDS. 2024 Feb 1;38(2):177-184. 
+
+Dirajlal-Fargo, S., Sattar, A., Strah, M., Karungi, C., Gumikiriza-Onoria, J., Asiedu, N., Nanteza, A., Santoro, A., Ferraris, C., Tsapalas, D., Morrison, C., Musiime, V., McComsey, G., Robbins, R. (2023). “Immune activation and neurocognition in Ugandan adolescents living with HIV.” Conference on Retroviruses and Opportunistic Infections (CROI), Seattle, Washington, USA, Feb 19 - 22.
+
+Dirajlal-Fargo, S., Strah, M., Ailstock, K., Sattar, A., Karungi, C., Nazzinda, R., Kityo, C. Musiime, V., Funderburg, N., McComsey, G., “Persistent immune activation and altered gut integrity over time in a longitudinal study of Ugandan youth with perinatally acquired HIV.” Frontiers in Immunology, 28 March 2023. Volume 14. https://www.frontiersin.org/articles/10.3389/fimmu.2023.1165964/full
+
+L.M. Bartolo, A. Melton, M. Strah, C.S. Lowe, L. Feng, and C. Woolverton, “An Electronic Scientific Notebook: Metadata and Database Design for Multidisciplinary Scientific Laboratory Data”, in Proc. ICEIS, 2002, pp.307-310.
+
+“Effectiveness of Tagging Laboratory Data Using Dublin Core in an Electronic Scientific Notebook”. CRIS 2002 6th International Conference on Current Research Information Systems, Gaining Insight from Research Information/ Ed. By Wolfgang Adamczak and Annemarie Nase, Kassel: kassel university press, 2002, ISBN 3-933146-844.
+
+“Method and System for Managing Data Objects” 2004.  Inventors: Austin Melton, Laura Bartolo, Christopher J. Woolverton, Monica Strah, Cathy Lowe, Louis Feng, US 2004/OO15514A1.
+
+
+
+
+
+

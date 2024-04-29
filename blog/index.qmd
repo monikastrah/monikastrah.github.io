@@ -1,0 +1,19 @@
+---
+title: Books & Bytes
+---
+
+![](myers.jpg)
+
+April 16, 2024 - *Ready to publish your first Book Review? Begin with these 4 Simple Steps from Celina Bragagnola, PhD:*  
+1. Identify a journal in your area of study that publishes book reviews.  
+2. Reach out to the reviews editor.  
+3. Look at other reviews while you are waiting for your book.  
+4. Read the book and write the review.  
+
+Check out these sources for additional details:
+
+[How to Publish a Book Review](https://www.aje.com/arc/how-to-publish-a-book-review/)   
+[How to Write an Academic Book Review](  https://wendybelcher.com/writing-advice/how-to-write-book-review/)  
+[Writing Academic Book Reviews - USC Libraries](https://libguides.usc.edu/c.php?g=235208&p=1560694)
+
+<img src="stack.jpg" style="height: 100%; width: 30%; object-fit: contain" onclick="window.open(  'https://wendybelcher.com/writing-advice/how-to-write-book-review/', 'blank');"/>

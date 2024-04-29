@@ -1,0 +1,32 @@
+---
+title: Education
+---
+
+<img src="cwru.jpg" style="height: 20%; width: 20%;object-fit: contain">  
+
+**Case Western Reserve University - School of Medicine**  
+Cleveland, Ohio  
+PhD Clinical Translational Science    
+Current Student, Cumulative GPA: 4.0
+
+<img src="cwru.jpg" style="height: 20%; width: 20%;object-fit: contain">  
+
+**Case Western Reserve University - School of Medicine**   
+Cleveland, Ohio  
+Masters in Biostatistics  
+Cumulative GPA: 4.0
+
+<img src="kent.jpg" style="height: 20%; width: 20%;object-fit: contain">  
+
+**Kent State University**  
+Kent, Ohio  
+Computational Biology   
+Graduate Studies
+
+<img src="witt.jpg" style="height: 20%; width: 20%;object-fit: contain">  
+
+**Wittenberg University**  
+Springfield, Ohio  
+Bachelor of Arts in Mathematics
+
+

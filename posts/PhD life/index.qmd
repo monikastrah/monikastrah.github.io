@@ -1,0 +1,9 @@
+---
+title: "Biostatistics"
+author: "Monika Schmidt-Strah"
+date: "2024-04-18"
+categories: [news, books, analysis]
+image: "Statsbook.jpg"
+---
+
+Published in 2018, this book is a great reference for basic statistical methods intended for both graduates and undergraduates.

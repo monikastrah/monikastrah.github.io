@@ -1,0 +1,83 @@
+---
+toc: true
+toc-title: Contents
+toc-location: left
+
+about:
+  template: solana #jolla #trestles #broadside
+  id: about-block
+  image: "img/Monika_Strah.jpg"
+  image-width: 7em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MSchmidtStrah
+    - icon: github
+      text: Github
+      href: https://github.com/monikastrah
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/monika-strah-500530/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.monika.strah@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+
+<style>
+  body {
+  background-image: img/background.jpeg;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
+
+
+# Monika Schmidt-Strah
+
+My training and professional work have focused on teaching, study design and biostatistical analysis in the medical sciences. I have a special interest in meta-analyses and clinical trials.
+
+On this website, you will find a selection of my published works, book reviews and recommendations, news and updates on my current research projects. Please feel free to [contact me](mailto:mail.monika.strah@case.edu) if you have any questions or would like to discuss potential projects.
+
+# Biostatistics Resources
+
+## Books  
+[Frank Harrell - Biostatistics for Biomedical Research](https://hbiostat.org/bbr/)  
+[David Spiegelhalter - The Art of Statistics](https://dspiegel29.github.io/ArtofStatistics/)  
+[Jeffrey Leek - How to Be a Modern Scientist](https://leanpub.com/modernscientist)  
+[Hadley Wickham and Jenny Bryan - R for Data Science](https://r4ds.hadley.nz/)  
+[Winston Chang - R-Graphics Cookbook](https://r-graphics.org/)  
+[Chester Ismay and Albert Kim - A Modern Dive into R and the Tidyverse](https://moderndive.com/)  
+[The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)  
+[Tidy Modeling with R - Max Kuhn and Julia Silge](https://www.tmwr.org/)
+
+## Articles
+[Adding a blog to your existing Quarto website-Samantha Csik](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/)  
+[Statistial Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1)  
+[Data Organization in Spreadsheets-The American Statistician](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Broman_and_Woo_2018_Data_Organization_in_Spreadsheets.pdf)  
+[On Naming Things - Douglas MacDonald](https://www.douganddata.com/2022/07/on-naming-things/)  
+
+
+## Courses
+[Frank Harrell - Biostatistics for Biomedical Research](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos)  
+[UCLA-Statistical Methods and Data Analytics](https://stats.oarc.ucla.edu/stata/modules/)
+
+## Software
+[STATA](https://www.stata.com/)  
+[MATLAB](https://www.mathworks.com/products/matlab.html)  
+[SAS](https://www.sas.com/en_us/home.html)   
+[R](https://www.r-project.org/)   
+[SPSS](https://www.ibm.com/spss)
+
+## Miscellany  
+[Advent Calendar for Probability Distributions](https://quantgirl.blog/advent-calendar-2023/)  
+[On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)  
+[How to Name Files - Jenny Bryan](https://speakerdeck.com/jennybc/how-to-name-files)  
+[How to Name Files-The Sequel - Jenny Bryan](https://speakerdeck.com/jennybc/how-to-name-files-the-sequel)  
+[Which Statistical Test Should I Use?](https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/)
+
